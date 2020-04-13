@@ -3,7 +3,7 @@ The following need to be PascalCased
 - Methods
 
 The following need to be camelCased
-- Varables
+- Variables
 
 In the repo we always put curly braces for control
 structures, even when they could be optional. Curly 
